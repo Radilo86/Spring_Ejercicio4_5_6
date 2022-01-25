@@ -1,0 +1,5 @@
+Si tenemos incompatibilidad de puertos, porque ya estan en uso
+en la carpeta resources y el archivo application.properties
+escribiremos server.port=XXXX cualquier puerto.
+Con esto cambiaremos el puerto por defecto de nuestro servidor
+incluido en intelliJ llamado apache tomcat.

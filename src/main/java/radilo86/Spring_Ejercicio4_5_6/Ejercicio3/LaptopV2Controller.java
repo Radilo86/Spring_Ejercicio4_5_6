@@ -30,4 +30,7 @@ public class LaptopV2Controller {
         */
         return laptopRepository.save(laptop);
     }
+
+    // Busca un registro segun su id
+
 }

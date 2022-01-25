@@ -1,7 +1,7 @@
-package com.example.Spring_Ejercicio4_5_6;
+package radilo86.Spring_Ejercicio4_5_6;
 
-import com.example.Spring_Ejercicio4_5_6.Ejercicio2.Entidad.Laptop;
-import com.example.Spring_Ejercicio4_5_6.Ejercicio2.Repository.LaptopRepository;
+import radilo86.Spring_Ejercicio4_5_6.Ejercicio2.Entidad.Laptop;
+import radilo86.Spring_Ejercicio4_5_6.Ejercicio2.Repository.LaptopRepository;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;

@@ -1,6 +1,6 @@
-package com.example.Spring_Ejercicio4_5_6.Ejercicio2.Repository;
+package radilo86.Spring_Ejercicio4_5_6.Ejercicio2.Repository;
 
-import com.example.Spring_Ejercicio4_5_6.Ejercicio2.Entidad.Laptop;
+import radilo86.Spring_Ejercicio4_5_6.Ejercicio2.Entidad.Laptop;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

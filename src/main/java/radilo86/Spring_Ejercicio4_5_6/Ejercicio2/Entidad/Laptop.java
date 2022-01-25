@@ -1,4 +1,4 @@
-package com.example.Spring_Ejercicio4_5_6.Ejercicio2.Entidad;
+package radilo86.Spring_Ejercicio4_5_6.Ejercicio2.Entidad;
 
 import javax.persistence.*;
 

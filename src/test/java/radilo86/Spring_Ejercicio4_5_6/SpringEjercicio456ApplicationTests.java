@@ -1,4 +1,4 @@
-package com.example.Spring_Ejercicio4_5_6;
+package radilo86.Spring_Ejercicio4_5_6;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

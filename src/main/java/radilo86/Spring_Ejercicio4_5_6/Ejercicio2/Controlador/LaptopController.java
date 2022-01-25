@@ -1,7 +1,7 @@
-package com.example.Spring_Ejercicio4_5_6.Ejercicio2.Controlador;
+package radilo86.Spring_Ejercicio4_5_6.Ejercicio2.Controlador;
 
-import com.example.Spring_Ejercicio4_5_6.Ejercicio2.Entidad.Laptop;
-import com.example.Spring_Ejercicio4_5_6.Ejercicio2.Repository.LaptopRepository;
+import radilo86.Spring_Ejercicio4_5_6.Ejercicio2.Entidad.Laptop;
+import radilo86.Spring_Ejercicio4_5_6.Ejercicio2.Repository.LaptopRepository;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

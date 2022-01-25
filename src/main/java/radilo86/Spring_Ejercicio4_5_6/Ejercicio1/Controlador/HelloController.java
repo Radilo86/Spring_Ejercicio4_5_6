@@ -1,4 +1,4 @@
-package com.example.Spring_Ejercicio4_5_6.Ejercicio1.Controller;
+package radilo86.Spring_Ejercicio4_5_6.Ejercicio1.Controlador;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
